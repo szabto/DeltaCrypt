@@ -1,0 +1,2 @@
+A php and javscript class to make communication between js and php server secure.
+It can handle only ajax requests for now.
